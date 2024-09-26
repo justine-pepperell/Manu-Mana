@@ -4,7 +4,7 @@ When Jesse Stratford heard his classmate Halmai McRae pitch the idea of making a
 
 ## Kaupapa/Purpose  
 Manu Mana is more than a web application: the project is about design, protecting taonga, relationships, and learning in a digital age.
-It is also an exploration of what it means to be an ethical technologist working in bicultural Aotearoa. 
+It is also an exploration of what it means to be an ethical technologist working in Aotearoa. 
 
 
 
